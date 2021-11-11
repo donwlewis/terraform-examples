@@ -6,7 +6,7 @@ The purpose of this project is t develop examples of how to use Terraform in var
 
 Select the example to get more details.
 
-- (azure-vm)[/azure/README.md]
+- [azure/vm](azure/vm)
 
 ## Core Documents
 
